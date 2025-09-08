@@ -1,0 +1,25 @@
+# Ignore everything
+*
+
+# Except Source folder
+!Source/
+
+Binaries/
+DerivedDataCache/
+Saved/
+Intermediate/
+*.uasset
+*.umap
+*.pdb
+*.suo
+*.sln
+*.VC.db
+.vscode/
+
+# PDB and log files
+*.pdb
+*.log
+
+# Ignore other temporary files
+*.tmp
+*.cache
